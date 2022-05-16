@@ -1,0 +1,73 @@
+#Lower {
+  background-color: white;
+  width: auto;
+  height: 50%;
+}
+
+body, html {
+  color: #997075;
+  height: 100%;
+  background-color: #E8F8C1;
+}
+
+.navbar.navbar-expand-lg.navbar-dark li a{
+  color: #997075;
+  font-size: 125%;
+}
+
+.leftT {
+  height: 100%;
+}
+
+.TextLeft {
+  margin: auto;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+  padding-left: 55%;
+  padding-top: 2%;
+}
+
+.logo1 {
+  width: 15em;
+  padding-top: 90px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Modern {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+
+}
+
+.Responsive {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
+
+.User-Friendly {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
+
+.ContactForm {
+}
+
+.TextLogo1 {
+  width: 100%;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 30pt;
+}
+
+#LowerLower {
+  height: 100%;
+}
+
+/*ANIMATION*/
